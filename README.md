@@ -1,4 +1,4 @@
-# Linear-Regression on the Kaggle ecommerce data
+# Linear-Regression on Kaggle ecommerce data
 A successful linear regression to keep as code record for future analysis.
 
 Used pandas, matploblib, seaborn and scipy packages.
