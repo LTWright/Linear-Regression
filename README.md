@@ -12,7 +12,7 @@ Used pandas, matploblib, seaborn and scipy packages.
 
 3. Trained a model using Scikit-Learn
 
-4. Trained a model using Scikit-Learn
+4. Tested model using Scikit-Learn
 
 5. Created Predictions using model
 
